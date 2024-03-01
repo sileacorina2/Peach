@@ -1,0 +1,14 @@
+{
+  "backendUrls": [
+    "http://peacholo.com",
+    "http://zivarsoft.com",
+    "http://sholezanza.com"
+  ],
+  "resistanceUrl": [
+    "http://peacholo.com/peach.json",
+    "http://zivarsoft.com/peach.json",
+    "http://sholezanza.com/peach.json",
+    "https://raw.githubusercontent.com/d3863724/Maple/main/Maple.json"
+  ],
+  "validationPeriod": 720000
+}
